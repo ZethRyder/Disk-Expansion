@@ -3,6 +3,7 @@
 With the information we got from the gigaleak, it confirmed that Master Quest was indeed the final version of the Disk Expansion meant for Ocarina of Time or Ura Zelda as most fans have come to know it by. It was never more than a dungeon replacement due to coding limitations. However upon digging further into the files, we have found the original DD layouts that Master Quest based itself upon. While most of the original DD layouts were available, there was a couple that were never completed. We merged Ice Cavern with its MQ counterpart since it was almost exactly the same and the Bottom of the well was empty with a few left over actors from normal OoT so we ported it's MQ variant over. Ganon's castle was never planned for the Disk Expansion which was confirmed in the gigaleak files and the 64DD OVL file. But since Nintendo later added it as a bonus dungeon when they made MQ we decided to add it as a way of giving a sense of completion to the mod. We do hope you enjoy these new challenging dungeons! Just a word of caution, make sure that you get items, songs, etc as soon as you are able to because these DD dungeons do make use of everything.
 
 
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~Instructions~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Please download the appropriate patch files required! You will need to provide
