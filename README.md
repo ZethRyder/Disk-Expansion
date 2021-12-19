@@ -1,4 +1,4 @@
-                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~Mod Info~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                ~~~~~~~~~~~~~~~~~~~~~~~~~~Mod Info~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 With the information we got from the gigaleak, it confirmed that Master Quest was indeed the final version of the Disk Expansion
 meant for Ocarina of Time or Ura Zelda as most fans have come to know it by. It was never more than a dungeon replacement due to
@@ -13,7 +13,7 @@ do make use of everything.
 
 
 
-                                    ~~~~~~~~~~~~~~~~~~~~~~~~~Instructions~~~~~~~~~~~~~~~~~~~~~~~~~
+                                ~~~~~~~~~~~~~~~~~~~~~~~~~Instructions~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Please download the appropriate patch files required! You will need to provide
 your own clean backup copy of Ocarina of Time 1.0 of either the US version or the Japanese version(Big Endian). It does not need
@@ -26,8 +26,7 @@ choose the clean backup copy of 1.0 and then name the rom. Make sure to keep the
 
 If you done everything correctly, the patcher will say patching was successful!
 
-
-                                     ~~~~~~~~~~~~~~~~~~~~~~~~~Additions~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                ~~~~~~~~~~~~~~~~~~~~~~~~~Additions~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -Ported the DD title screen(flames are not 100% correct due to incompatible coding issues)
 -Enabled the disk features in the file select
@@ -40,14 +39,15 @@ If you done everything correctly, the patcher will say patching was successful!
 -Made sure its hardware compatible with the N64
 -Fixed a graphic error with the Mirror in the spirit temple
 
-                                    ~~~~~~~~~~~~~~~~~~~~~~~Excluded files~~~~~~~~~~~~~~~~~~~~~~~~~
+                              ~~~~~~~~~~~~~~~~~~~~~~~Excluded files~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Anything relating to the DD test dungeon files that everyone keeps calling boss rush modes.(That's why some of them are
 labled ddtes{DD test}) OoT's DD abilities are very limited, it could not support having a boss rush mode without it getting
 very hacky and none of the files relating to building the expansion even points to these files, including Z2_ReDead and Z2_DD_IKE. 
 Z2 has been used in all Majora's Mask maps and most likely is beta related to Zelda Gaidan. 
 
-                                   ~~~~~~~~~~~~~~~~~~~~~~~~~Credits~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                                                            ZethN64
-                                                            Sakura 
-                                                           Frostclaw
-                                                         Steve(ToCoool)
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~Credits~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                                       ZethN64
+                                                       Sakura 
+                                                       Frostclaw
+                                                      Steve(ToCoool)
