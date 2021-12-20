@@ -28,16 +28,16 @@ If you done everything correctly, the patcher will say patching was successful!
 
                                 ~~~~~~~~~~~~~~~~~~~~~~~~~Additions~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--Ported the DD title screen(flames are not 100% correct due to incompatible coding issues)
--Enabled the disk features in the file select
--Enabled the use of the expansion pak for smoother experience
--Increased text speed as 1.0 text speed is nortoriously slow
--Fixed developer oversights such as broken flags/checks, missing objects, text spacing errors, etc
--Ported over treasure chest icons for working maps
--Ported Bottom of the Well and Ganon's Castle over from MQ
--Merged DD Ice Cavern with MQ variant
--Made sure its hardware compatible with the N64
--Fixed a graphic error with the Mirror in the spirit temple
+-Ported the DD title screen(flames are not 100% correct due to incompatible coding issues) <br />
+-Enabled the disk features in the file select<br />
+-Enabled the use of the expansion pak for smoother experience <br />
+-Increased text speed as 1.0 text speed is nortoriously slow <br />
+-Fixed developer oversights such as broken flags/checks, missing objects, text spacing errors, etc <br />
+-Ported over treasure chest icons for working maps <br />
+-Ported Bottom of the Well and Ganon's Castle over from MQ <br />
+-Merged DD Ice Cavern with MQ variant <br />
+-Made sure its hardware compatible with the N64 <br />
+-Fixed a graphic error with the Mirror in the spirit temple <br />
 
                               ~~~~~~~~~~~~~~~~~~~~~~~Excluded files~~~~~~~~~~~~~~~~~~~~~~~~~
 
